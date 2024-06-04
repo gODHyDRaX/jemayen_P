@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+    font-family: monospace;
+}
+.root{
+    width: 100%;
+    height: 100vh;
+    }
+.header{
+    display: flex;
+    width: 100%;
+    background-color: #1a446e;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    height: 5rem;
+    color: white;
+    position: fixed; 
+}
+.perfil{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    padding: 1rem;
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://github.com/gODHyDRaX/img-P/blob/main/black-gradient-background-127014-1527924-7705969.png?raw=true');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: black;
+
+}
+.project{
+    background-color: black;
+    width: 100%;
+    height: 100cap;
+    display: grid;
+    grid-template-rows: 15.5rem 1fr;
+    padding: 1rem;
+}
+.reparaciones{
+    width: 100%;
+    height: 100cap;
+    display: grid;
+    grid-template-rows: 15.5rem 1fr;
+    background-image: url('https://github.com/gODHyDRaX/img-P/blob/main/black-gradient-background-127014-1527924-7705969.png?raw=true');
+    background-position: center;
+    background-size: contain;
+    background-color: black;
+    background-repeat: no-repeat;
+}

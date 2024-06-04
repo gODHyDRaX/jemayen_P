@@ -1,0 +1,108 @@
+.pc1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+    gap: 2rem;
+}
+.pc1 h1{
+    width: 100%;
+    font-size: 4rem;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.pc1 p{
+    width: 100%;
+    color: white;
+    font-size: 1.2rem;
+}
+.pc2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imgp{
+    background-image: url('https://github.com/gODHyDRaX/img-P/blob/main/githubs.png?raw=true');
+    background-position: end    ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 31rem;
+    height: 31rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4rem;
+}
+.habilidades{
+    background-color: white;
+    border-radius: 15px;
+    padding: 2rem;
+    display: grid;
+    grid-template-rows: repeat(12, 1fr);
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+    
+}
+.img{
+    width: 1rem;
+    height: 1rem;
+}
+.ha1{
+    background-color: #0c65be;
+    height: 1rem;
+    width: 75%;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
+.ha2 {
+    background-color: #0c65be;
+    height: 1rem;
+    width: 85%;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
+.ha3 {
+    background-color: #0c65be;
+    height: 1rem;
+    width: 80%;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
+.ha4 {
+    background-color: #0c65be;
+    height: 1rem;
+    width: 70%;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
+.ha5 {
+    background-color: #0c65be;
+    height: 1rem;
+    width: 60%;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
+.ha6 {
+    background-color: #0c65be;
+    height: 1rem;
+    width: 50%;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
+.ha7 {
+    background-color: #0c65be;
+    height: 1rem;
+    width: 55%;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
