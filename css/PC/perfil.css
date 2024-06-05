@@ -36,8 +36,8 @@
     font-size: 4rem;
 }
 .habilidades{
-    background-color: white;
-    border-radius: 15px;
+    background-color: #232639;
+        border-radius: 15px;
     padding: 2rem;
     display: grid;
     grid-template-rows: repeat(12, 1fr);
@@ -45,6 +45,9 @@
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     
     
+}
+.habilidades h2{
+    color: white;
 }
 .img{
     width: 1rem;

@@ -23,7 +23,7 @@
     padding: 1rem;
 }
 .rpn{
-    background-color: white;
+    background-color: #232639;
     width: 40rem;
     height: 100%;
     border-radius: 10px;
@@ -33,18 +33,23 @@
 }
 .imgR{
     width: 100%;
-    background-color: gray;
     height: 25rem;
+    background-image: url('https://github.com/gODHyDRaX/img/blob/main/blaz-erzetic-g5f0BJq-FRs-unsplash.jpg?raw=true');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .rpn h2{
     height: 3rem;
     display: flex;
     align-items: end;
+    color: white;
     font-size: 2rem;
 }
 .rpn span{
     display: block;
     width: 100%;
+    color: white;
     height: 7rem;
     font-size: 1.2rem;
     justify-content: center;

@@ -7,27 +7,27 @@ let repa = `
             <div class="rpn">
                 <div class="imgR"></div>
                 <h2>Cambio de pasta termica</h2>
-                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>Maxime odit a, fugit amet est molestias ab sit aspernatur <br>libero, molestiae, quibusdam cumque esse illo hic<br> distinctio commodi dolor. Ab, explicabo.</span>
+                <span>Esta es una descripcion</span>
             </div>
             <div class="rpn">
                 <div class="imgR"></div>
                 <h2>Cambio de pasta termica</h2>
-                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>Maxime odit a, fugit amet est molestias ab sit aspernatur <br>libero, molestiae, quibusdam cumque esse illo hic<br> distinctio commodi dolor. Ab, explicabo.</span>
+                <span>Esta es una descripcion</span>
             </div>
             <div class="rpn">
                 <div class="imgR"></div>
                 <h2>Cambio de pasta termica</h2>
-                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>Maxime odit a, fugit amet est molestias ab sit aspernatur <br>libero, molestiae, quibusdam cumque esse illo hic<br> distinctio commodi dolor. Ab, explicabo.</span>
+                <span>Esta es una descripcion</span>
             </div>
             <div class="rpn">
                 <div class="imgR"></div>
                 <h2>Cambio de pasta termica</h2>
-                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>Maxime odit a, fugit amet est molestias ab sit aspernatur <br>libero, molestiae, quibusdam cumque esse illo hic<br> distinctio commodi dolor. Ab, explicabo.</span>
+                <span>Esta es una descripcion</span>
             </div>
             <div class="rpn">
                 <div class="imgR"></div>
                 <h2>Cambio de pasta termica</h2>
-                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>Maxime odit a, fugit amet est molestias ab sit aspernatur <br>libero, molestiae, quibusdam cumque esse illo hic<br> distinctio commodi dolor. Ab, explicabo.</span>
+                <span>Esto es una descripcion</span>
             </div>
     </div>
 `

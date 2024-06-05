@@ -1,0 +1,28 @@
+.imgp{
+    display: none;
+}
+.pc2{
+    display: none;
+}
+.perfil{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.pc1 h1{
+    text-align: center;
+}
+.pc1 p{
+text-align: center;
+}
+.pj{
+    width: 35rem;
+}
+.rp p{
+    text-align: center;
+}
+.repaT p{
+    text-align: center;
+}
+.rpn{
+    width: 35rem;
+}
