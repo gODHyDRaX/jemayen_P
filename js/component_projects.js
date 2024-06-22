@@ -32,12 +32,12 @@ let cp_projectos = `
     </div>
 </div>
 <div class="pj">
-    <div class="imgP"></div>
-    <h2>Project 1</h2>
+    <img src="https://github.com/gODHyDRaX/img-P/blob/main/127.0.0.1_5501_1.png?raw=true" class="imgP" alt="">
+    <h2>Tienda en linea</h2>
     <span>Esta es una descripcion</span>
     <div class="btns">
-        <div class="btn1">Github</div>
-        <div class="btn2">View</div>
+          <a href="https://github.com/gODHyDRaX/jemayen_dmosorio_tienda_2024" class="btn1">Github</a>
+        <a href="https://godhydrax.github.io/jemayen_dmosorio_tienda_2024/" class="btn2">View</a>
     </div>
 </div>
 <div class="pj">
